@@ -1,4 +1,4 @@
-# The Relation Between Credit Limits, Income
+# The Relation Between Credit Limits, Income and Age
 
 We will use the “Predicting Credit Card Customer Segmentation” dataset from
 Kaggle. The information was gathered in six months and consists of 10,000 records and 23
